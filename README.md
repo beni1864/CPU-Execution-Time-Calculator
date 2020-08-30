@@ -1,6 +1,6 @@
 # CPU-Execution-Time-Calculator
 
-This calculator...  - Takes in a list of CPUs and their characteristics (Name, Clock Cycles per Instruction, Clock Rate, Price)  - Sorts the list by smallest-largest CPU Time  - Prompts the user for the largest CPU Time they can tolerate  - Returns the cheapest processor that falls in user's performance range
+This calculator...  \- Takes in a list of CPUs and their characteristics (Name, Clock Cycles per Instruction, Clock Rate, Price)  \- Sorts the list by smallest-largest CPU Time  \- Prompts the user for the largest CPU Time they can tolerate  \- Returns the cheapest processor that falls in user's performance range
 #
 Example:
 
