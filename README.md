@@ -12,11 +12,9 @@ This calculator...
 #
 Example:
 
-Please enter the number of processors [1 to 10]:
-
-10
-
-Processor Name (no spaces):
+Please enter the number of processors [1 to 10]:<br/>
+10<br/>
+Processor Name (no spaces):<br/>
 i7-1065G7
 Processor cost (US dollars):
 499.00
