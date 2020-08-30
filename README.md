@@ -10,7 +10,7 @@ This calculator...
 
 - Returns the cheapest processor that falls in user's performance range
 #
-Example:
+# Example:
 
 Please enter the number of processors [1 to 10]:<br/>
 10<br/>
@@ -104,7 +104,7 @@ i7-8700K: 0.0135<br/>
 i7-1060G7: 0.0194<br/>
 i3-8100: 0.0194<br/>
 i7-10510U: 0.0207<br/>
-i5-8600K: 0.0222<br/>
+i5-8600K: 0.0222<br/><br/>
 What execution time (in seconds) are you targeting?<br/>
 .02<br/>
 The cheapest processor to meet your specification is: i3-8100 at a price of $116.00.
