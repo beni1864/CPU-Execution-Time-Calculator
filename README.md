@@ -93,7 +93,7 @@ Processor cost (US dollars):<br/>
 Processor clock rate (in GHz):<br/>
 3.6<br/>
 Processor average CPI:<br/>
-7.0<br/>
+7.0<br/><br/>
 Now ranking execution times... from lowest to highest execution time, your results are:<br/><br/>
 i7-10510Y: 0.0025<br/>
 i7-1065G7: 0.0056<br/>
@@ -106,5 +106,5 @@ i3-8100: 0.0194<br/>
 i7-10510U: 0.0207<br/>
 i5-8600K: 0.0222<br/><br/>
 What execution time (in seconds) are you targeting?<br/>
-.02<br/>
+.02<br/><br/>
 The cheapest processor to meet your specification is: i3-8100 at a price of $116.00.
